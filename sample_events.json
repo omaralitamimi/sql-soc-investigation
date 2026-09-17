@@ -1,0 +1,6 @@
+[
+  {"timestamp":"2026-01-01T00:00:00Z","username":"omar","source_ip":"192.0.2.4","result":"failure","asset":"vpn"},
+  {"timestamp":"2026-01-01T00:01:00Z","username":"admin","source_ip":"192.0.2.4","result":"failure","asset":"vpn"},
+  {"timestamp":"2026-01-01T00:02:00Z","username":"guest","source_ip":"192.0.2.4","result":"failure","asset":"vpn"},
+  {"timestamp":"2026-01-01T00:03:00Z","username":"omar","source_ip":"192.0.2.5","result":"success","asset":"vpn"}
+]
